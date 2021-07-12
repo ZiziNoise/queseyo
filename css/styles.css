@@ -1,0 +1,39 @@
+.guiso {
+background-image: url(https://image.freepik.com/foto-gratis/conjunto-utensilios-cocina-mantel-floral-sobre-fondo-madera_2268-122.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: 'Encode Sans SC', sans-serif;
+}
+.mondongo{ color: darkred;
+}
+.milanesa { 
+color: darkred;
+
+}
+.aside {
+    padding: 15cm; 
+    padding-top: 0cm;
+
+
+}
+.div1  {
+    padding: 0cm;
+   margin: 0cm;
+   padding-left: 15cm;
+}
+.nav{
+ padding-left: 15cm;
+
+}
+.div2 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 8cm;
+
+    
+}
+.peron {
+
+display: inline-block;
+    padding: 15cm;
+}
